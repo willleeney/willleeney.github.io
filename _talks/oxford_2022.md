@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Neural Networks"
 collection: talks
-type: "tutorial"
+type: "Tutorial"
 permalink: /talks/oxford_2022
 venue: "Oxford Mathematical Institute"
 date: 2022-06-08
