@@ -8,4 +8,4 @@ date: 2023-11-28
 location: "Menton, France"
 ---
 
-This talk was selected for Oral Presentation as part of a contribution to Complex Networks 2023. I talked about the need for consistent benchmarking practices in GNN community detection, demonstrated the drop in performance due to not carrying out a hyperparameter optimisation. I proposed a metric for quantifying randomness of the rankings of between different algorithms. The [powerpoint slides](files/346_Leeney.pptx) are available. 
+This talk was selected for Oral Presentation as part of a contribution to Complex Networks 2023. I talked about the need for consistent benchmarking practices in GNN community detection, demonstrated the drop in performance due to not carrying out a hyperparameter optimisation. I proposed a metric for quantifying randomness of the rankings of between different algorithms. The slides are available here <a href="files\346_Leeney.pdf">ok</a>. 
