@@ -15,7 +15,7 @@ Areas of Study
 ---
 - `Unsupervised Learning`
 - `GNNs`
-- `Randomness in Benchmarking`
+- `Randomness in ML Benchmarking`
 - `Federated Learning`
 - `Community Detection`
 
