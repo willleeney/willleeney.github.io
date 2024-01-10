@@ -25,6 +25,9 @@ Software Skills
 - `julia`
 - `typescript`
 - `latex`
-- `C`
+- `git`
 - `shell scripts`
+- `C`
 - `java`
+- `html`
+- `css`
