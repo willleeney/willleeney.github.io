@@ -7,7 +7,7 @@ title: <br><br><br><br><br>Publications
 permalink: /publications/
 ---
 
-You can also find my articles on <a href="{{author.googlescholar}}" itemprop="sameAs"><i class="ai ai-fw ai-google-scholar-square" aria-hidden="true"></i>Google Scholar</a> or [Arxiv](https://arxiv.org/search/?searchtype=author&query=Leeney%2C+W)
+You can also find my articles on <a href="https://scholar.google.com/citations?user=TggzXjMAAAAJ&hl=en" itemprop="sameAs"><i class="ai ai-fw ai-google-scholar-square" aria-hidden="true"></i>Google Scholar</a> or [Arxiv](https://arxiv.org/search/?searchtype=author&query=Leeney%2C+W)
 
 
 ## 2024
