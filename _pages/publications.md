@@ -8,7 +8,7 @@ permalink: /publications/
 ---
 
 ## Publications
-You can also find my articles on <a href=="{{author.googlescholar}}" itemprop="sameAs"><i class="ai ai-fw ai-google-scholar-square" aria-hidden="true"></i>Google Scholar</a> or [Arxiv](https://arxiv.org/search/?searchtype=author&query=Leeney%2C+W)
+You can also find my articles on <a href="{{author.googlescholar}}" itemprop="sameAs"><i class="ai ai-fw ai-google-scholar-square" aria-hidden="true"></i>Google Scholar</a> or [Arxiv](https://arxiv.org/search/?searchtype=author&query=Leeney%2C+W)
 
 ---
 
@@ -41,8 +41,8 @@ You can also find my articles on <a href=="{{author.googlescholar}}" itemprop="s
 <code>@article{leeney2023uncertainty,
   title={Uncertainty in GNN Learning Evaluations: A Comparison Between Measures for Quantifying Randomness in GNN Community Detection},
   author={Leeney, William and McConville, Ryan},
-  journal={arXiv preprint arXiv:2312.09015},
-  year={2023}
+  journal={Advances in Complex Networks and Their Applications, from COMPLEX NETWORKS, 2023. Complexity, Entropy},
+  year={2024}
 }
 </code></pre></div></small>
 </div>
