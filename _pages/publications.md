@@ -7,10 +7,8 @@ title: <br><br><br><br><br>Publications
 permalink: /publications/
 ---
 
-## Publications
 You can also find my articles on <a href="{{author.googlescholar}}" itemprop="sameAs"><i class="ai ai-fw ai-google-scholar-square" aria-hidden="true"></i>Google Scholar</a> or [Arxiv](https://arxiv.org/search/?searchtype=author&query=Leeney%2C+W)
 
----
 
 ## 2024
 
@@ -67,3 +65,57 @@ You can also find my articles on <a href="{{author.googlescholar}}" itemprop="sa
 }
 </code></pre></div></small>
 </div>
+
+
+## test please ignore
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .hidden-text {
+      display: none;
+    }
+
+    .reveal-button {
+      color: gray;
+      cursor: pointer;
+    }
+  </style>
+  <script>
+    function toggleVisibility(elementId) {
+      var element = document.getElementById(elementId);
+      if (element.style.display === "none" || element.style.display === "") {
+        element.style.display = "block";
+      } else {
+        element.style.display = "none";
+      }
+    }
+  </script>
+</head>
+<body>
+
+<small>
+  William Leeney and Ryan McConville. Uncertainty in GNN Learning Evaluations: A Comparison Between Measures for Quantifying Randomness in GNN Community Detection. arXiv preprint arXiv:2312.09015 (2023).
+  (<a href="https://arxiv.org/abs/2312.09015.pdf" style="color: gray">.pdf</a>)
+  (<a href="https://github.com/willleeney/wrandai" style="color: gray">code</a>)
+  (<a style="color: gray; cursor: pointer;" onclick="toggleVisibility('leeney2023uncertainty');">bibtex</a>)
+</small>
+<div id="leeney2023uncertainty" style="display:none;">
+  <small>
+    <div class="highlighter-rouge">
+      <pre class="highlight">
+        <code>
+          @article{leeney2023uncertainty,
+            title={Uncertainty in GNN Learning Evaluations: A Comparison Between Measures for Quantifying Randomness in GNN Community Detection},
+            author={Leeney, William and McConville, Ryan},
+            journal={Advances in Complex Networks and Their Applications, from COMPLEX NETWORKS, 2023. Complexity, Entropy},
+            year={2024}
+          }
+        </code>
+      </pre>
+    </div>
+  </small>
+</div>
+
+</body>
