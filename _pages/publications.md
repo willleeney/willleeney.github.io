@@ -55,7 +55,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 </div>
 
 > <small>
-    William Leeney and Ryan McConville. Uncertainty in GNN Learning Evaluations: A Comparison Between Measures for Quantifying Randomness in GNN Community Detection. arXiv preprint arXiv:2312.09015 (2023). 
+    William Leeney and Ryan McConville. Uncertainty in GNN Learning Evaluations: A Comparison Between Measures for Quantifying Randomness in GNN Community Detection. Advances in Complex Networks and Their Applications, from COMPLEX NETWORKS, 2023. Complexity, Entropy (2023). 
     (<a href="https://arxiv.org/abs/2312.09015.pdf" style="color:gray">.pdf</a>)
     (<a href="https://github.com/willleeney/wrandai" style="color:gray">code</a>)
     (<a style="color: gray; cursor: pointer;" onclick="toggleVisibility('leeney2023uncertainty');">bibtex</a>)
