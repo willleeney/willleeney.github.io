@@ -10,8 +10,19 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-EV2BPKWF3J');
+
+  // Function to get page views
+  function getPageViews() {
+            gtag('event', 'page_view', {
+                'send_to': 'G-EV2BPKWF3J',
+                'event_callback': function() {
+                    // Retrieve and display page views
+                    var pageViews = gtag('get', 'G-EV2BPKWF3J', 'page_view');
+                    document.getElementById('pageViews').innerText = 'Page Views: ' + pageViews;
+                }
+            });
+        }
 </script>
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
