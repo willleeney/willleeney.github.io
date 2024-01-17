@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p id="pageViews">Loading page views...</p>
+<p id="pageViews">Loading (t) page views...</p>
 
 <!-- Call the function to get page views -->
 <script>
