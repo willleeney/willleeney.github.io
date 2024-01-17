@@ -8,8 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-<p id="pageViews">Loading (t) page views...</p>
+<p id="pageViews">Loading (n) page views...</p>
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EV2BPKWF3J"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-EV2BPKWF3J');
+
+  // Function to get page views
+</script>
+<script>
+  function getPageViews() {
+            gtag('event', 'page_view', {
+                 'send_to': 'G-EV2BPKWF3J',
+                 'event_callback': function() {
+                    // Retrieve and display page views
+                    var pageViews = gtag('get', 'G-EV2BPKWF3J', 'page_view');
+                    document.getElementById('pageViews').innerText = 'Page Views: ' + pageViews;
+                }
+            });
+        }
+</script>
 <!-- Call the function to get page views -->
 <script>
     getPageViews();
