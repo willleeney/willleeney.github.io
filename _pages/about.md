@@ -8,24 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<p id="pageViews">Loading (p) page views...</p>
-
-<script>
-  function getPageViews() {
-            gtag('event', 'page_view', {
-                 'send_to': 'G-EV2BPKWF3J',
-                 'event_callback': function() {
-                    var pageViews = gtag('get', 'G-EV2BPKWF3J', 'page_view');
-                    document.getElementById('pageViews').innerText = 'Page Views: ' + pageViews;
-                }
-            });
-        }
-</script>
-<!-- Call the function to get page views -->
-<script>
-    getPageViews();
-</script>
-
 I'm a PhD student of Artificial Intelligence in the School of Engineering Mathematics and Technology at the University of Bristol supervised by [Dr. Ryan McConville](https://ryanmcconville.com). I'm passionate about Open-Source Software, ~~Crypto~~, Yoga and Basketball.  If you have any questions that I can help with, please feel free to reach out via email at will.leeney@bristol.ac.uk or on LinkedIn. <a href="/files/leeney_will.pdf" download="leeney_will.pdf">Click here to download my CV.</a>  
 
 
