@@ -6,6 +6,7 @@
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-EV2BPKWF3J"></script>
+
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -13,10 +14,12 @@
   gtag('config', 'G-EV2BPKWF3J');
 
   // Function to get page views
+
+  
   function getPageViews() {
             gtag('event', 'page_view', {
-                'send_to': 'G-EV2BPKWF3J',
-                'event_callback': function() {
+                 'send_to': 'G-EV2BPKWF3J',
+                 'event_callback': function() {
                     // Retrieve and display page views
                     var pageViews = gtag('get', 'G-EV2BPKWF3J', 'page_view');
                     document.getElementById('pageViews').innerText = 'Page Views: ' + pageViews;
