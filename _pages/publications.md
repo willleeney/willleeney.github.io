@@ -42,7 +42,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     William Leeney and Ryan McConville. A Framework for Exploring Federated Community Detection. Graphs and more Complex Structures For Learning and Reasoning Workshop at the Thirty-Eighth AAAI Conference on Artificial Intelligence (2024). 
     (<a href="https://arxiv.org/abs/2312.09023.pdf" style="color:gray">.pdf</a>)
     (<a href="https://youtu.be/5F3EHW-wX8U" style="color:gray">video</a>)
-    (<a href="/files/AAAI_POSTER.pdf"" style="color:gray">poster</a>)
+    (<a href="/files/AAAI_POSTER.pdf" style="color:gray">poster</a>)
     (<a style="color:gray;cursor: pointer;" onclick="toggleVisibility('leeney2023framework');">bibtex</a>)
 </small>
 <div id="leeney2023framework" style="display:none;">
