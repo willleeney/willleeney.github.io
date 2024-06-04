@@ -1,17 +1,27 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "William Leeney"
+excerpt: "William Leeney"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a PhD student of Artificial Intelligence in the School of Engineering Mathematics and Technology at the University of Bristol supervised by [Dr. Ryan McConville](https://ryanmcconville.com). I'm passionate about Open-Source Software, ~~Crypto~~, Yoga and Basketball.  If you have any questions that I can help with, please feel free to reach out via email at will.leeney@bristol.ac.uk or on LinkedIn. <a href="/files/leeney_will.pdf" download="leeney_will.pdf">Click here to download my CV.</a>  
+I'm passionate about AI, Open-Source Software, ~~Crypto~~, Yoga and Basketball.  
 
+`AI Solutions Specialist` I excel at solving novel problems with AI. I'm a PhD student of Artificial Intelligence in the School of Engineering Mathematics and Technology at the University of Bristol supervised by [Dr. Ryan McConville](https://ryanmcconville.com). If you have any questions that I can help with, please feel free to reach out via email at `will dot leeney at outlook dot com` or on LinkedIn. If you want to take a look at my CV then <a href="/files/leeney_will.pdf" download="leeney_will.pdf">Click here.</a>  
 
-My PhD thesis is currently titled: <b>How to Train and Benchmark Graph Neural Network Clustering Algorithms.</b> In this, I detail the capability of graphs as a data representation and the practical application of node clustering. I show the importance of hyperparameter optimisation to a benchmark in community detection compared to using default parameters. I propose metrics for quantifying the randomness in current machine learning algorithm comparisons, illustrating the problems with current evaluations. It is then demonstrated that completely unsupervised learning is possible with no comparison to any ground-truth labels and how this aids federated learning between multiple clients. 
+`Supervision` Throughout my academic journey, I have actively engaged in mentorship, guiding over 50 machine learning projects for final year undergraduates. I excel in helping students formulate research problems, design experiments, and effectively communicate their findings through written reports and presentations.
+
+`Thesis` <b>Unsupervised Graph Neural Networks: Training Strategies and Evaluation Principles.</b> 
+- I demonstrated the need of a framework for more reliable evaluations showing the importance of experimental conditions. 
+- I proposed empirically quantifying the sensitivity of performance
+comparisons to randomness.
+- I showed that it is possible to train GNNs with modularity to bypass a supervised optimisation in model selection
+or hyperparameter tuning.
+- I extended the framework to a new scenario for community detection, showing that multiple clients can collaborate on learning. 
+
 
 Areas of Study
 ---
