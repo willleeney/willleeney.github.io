@@ -10,7 +10,7 @@ redirect_from:
 
 I'm passionate about AI, Open-Source Software, ~~Crypto~~, Yoga and Basketball.  
 
-`AI Solutions Specialist` I excel at solving novel problems with AI. I'm a PhD student of Artificial Intelligence in the School of Engineering Mathematics and Technology at the University of Bristol supervised by [Dr. Ryan McConville](https://ryanmcconville.com). If you have any questions that I can help with, please feel free to reach out via email at `will dot leeney at outlook dot com` or on LinkedIn. If you want to take a look at my CV then <a href="/files/leeney_will.pdf" download="leeney_will.pdf">Click here.</a>  
+`AI Solutions Specialist` I excel at solving novel problems with AI. I'm a PhD student of Artificial Intelligence in the School of Engineering Mathematics and Technology at the University of Bristol supervised by [Dr. Ryan McConville](https://ryanmcconville.com). If you have any questions that I can help with, please feel free to reach out via email at `will dot leeney at outlook dot com` or on LinkedIn. If you want to take a look at my CV then <a href="/files/willleeney.pdf" download="willleeney.pdf">Click here.</a>  
 
 `Supervision` Throughout my academic journey, I have actively engaged in mentorship, guiding over 50 machine learning projects for final year undergraduates. I excel in helping students formulate research problems, design experiments, and effectively communicate their findings through written reports and presentations.
 

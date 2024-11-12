@@ -3,7 +3,7 @@ layout: single
 read_time: false
 comments: false
 share: false
-title: <br><br><br><br><br>Publications
+title: Publications
 permalink: /publications/
 ---
 
