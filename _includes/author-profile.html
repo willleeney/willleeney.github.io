@@ -21,6 +21,21 @@
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Socials</button>
+    <script>
+      // Get the button element
+      const buttonElement = document.querySelector('.btn.btn--inverse');
+    
+      // Add a click event listener to the button
+      buttonElement.addEventListener('click', () => {
+      // Find the text element inside the box
+      const textElement = document.querySelector('.btn-box .box-text');
+    
+      // Set the text color
+      if (textElement) {
+          textElement.style.color = '#000000';
+      }
+      });
+    </script>
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
